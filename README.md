@@ -14,3 +14,6 @@ Tkinter
 # Demo
 
 ![](demo.gif)
+
+_you need to uncomment the 10 and 11 line for training of the chatterbot for only one time and you also can train it with your requirement_
+
