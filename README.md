@@ -16,7 +16,10 @@ Tkinter
 ![](demo.gif)
 
 _you need to uncomment the 10 and 11 line for training of the chatterbot for only one time and you also can train it with your requirement_
-**Refer these sited for Training related isuue 
-[first ](https://chatterbot.readthedocs.io/en/stable/corpus.html)
-[second](https://www.tutorialdocs.com/tutorial/chatterbot/training.html)
+**Refer these sited for Training related isuue**
+[first ](https://chatterbot.readthedocs.io/en/stable/corpus.html) , 
+[second](https://www.tutorialdocs.com/tutorial/chatterbot/training.html) 
+
+_for any queries [contact me](atultyagi.at.612@gmail.com)_
  
+
